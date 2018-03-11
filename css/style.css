@@ -19,11 +19,11 @@ h2, p {
 }
 
 p {
-	color: pink;
-}
-
-p {
-	color: green;
+	line-height: 20px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 140%;
+	font-family: 'Poiret One', cursive;
 }
 
 li {
@@ -31,7 +31,7 @@ li {
 	display: inline-block;
 }
 
-.webtext {
+.webtext:first-child {
 	border: 5px dashed green;
 }
 

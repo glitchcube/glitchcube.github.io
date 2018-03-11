@@ -19,11 +19,20 @@ h2, p {
 }
 
 p {
-	line-height: 20px;
+	line-height: 5px;
 	font-style: italic;
 	font-weight: bold;
-	font-size: 140%;
+	font-size: 100%;
 	font-family: 'Poiret One', cursive;
+}
+
+img {
+	float: right;
+}
+
+footer {
+	clear: both;
+	text-align: center;
 }
 
 li {

@@ -4,8 +4,13 @@ h2 {
 
 p {
 	font-size: 20px;
+	margin-left: 
 }
 
 span {
 	font-size: 5em;
+}
+
+li {
+	list-style-type: square;
 }
